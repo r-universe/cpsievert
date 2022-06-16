@@ -1,0 +1,18 @@
+[
+  {
+    "package": "LDAvis",
+    "oncran": true
+  },
+  {
+    "package": "pitchRx",
+    "oncran": true
+  },
+  {
+    "package": "plotlyGeoAssets",
+    "oncran": true
+  },
+  {
+    "package": "XML2R",
+    "oncran": true
+  }
+]
