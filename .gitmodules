@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "histoslider"]
+	path = histoslider
+	url = https://github.com/cpsievert/histoslider
+	shallow = true
+	registered = true
 [submodule "LDAvis"]
 	path = LDAvis
 	url = https://github.com/cpsievert/ldavis

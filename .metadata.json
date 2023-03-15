@@ -1,5 +1,9 @@
 [
   {
+    "package": "histoslider",
+    "oncran": true
+  },
+  {
     "package": "LDAvis",
     "oncran": true
   },
