@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "LDAvis"]
-	path = LDAvis
-	url = https://github.com/cpsievert/ldavis
+[submodule "XML2R"]
+	path = XML2R
+	url = https://github.com/cpsievert/xml2r
 	shallow = true
 	registered = true
 [submodule "pitchRx"]
@@ -13,13 +13,13 @@
 	url = https://github.com/cpsievert/pitchrx
 	shallow = true
 	registered = true
+[submodule "LDAvis"]
+	path = LDAvis
+	url = https://github.com/cpsievert/ldavis
+	shallow = true
+	registered = true
 [submodule "plotlyGeoAssets"]
 	path = plotlyGeoAssets
 	url = https://github.com/cpsievert/plotlygeoassets
-	shallow = true
-	registered = true
-[submodule "XML2R"]
-	path = XML2R
-	url = https://github.com/cpsievert/xml2r
 	shallow = true
 	registered = true

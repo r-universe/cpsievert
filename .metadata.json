@@ -1,6 +1,6 @@
 [
   {
-    "package": "LDAvis",
+    "package": "XML2R",
     "oncran": true
   },
   {
@@ -8,11 +8,11 @@
     "oncran": true
   },
   {
-    "package": "plotlyGeoAssets",
+    "package": "LDAvis",
     "oncran": true
   },
   {
-    "package": "XML2R",
+    "package": "plotlyGeoAssets",
     "oncran": true
   }
 ]
