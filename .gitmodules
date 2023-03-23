@@ -8,6 +8,11 @@
 	url = https://github.com/cpsievert/histoslider
 	shallow = true
 	registered = true
+[submodule "jquerylib"]
+	path = jquerylib
+	url = https://github.com/cran/jquerylib
+	shallow = true
+	registered = true
 [submodule "LDAvis"]
 	path = LDAvis
 	url = https://github.com/cpsievert/ldavis
