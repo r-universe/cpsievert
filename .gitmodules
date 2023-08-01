@@ -2,21 +2,21 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "LDAvis"]
+	path = LDAvis
+	url = https://github.com/cpsievert/ldavis
+[submodule "XML2R"]
+	path = XML2R
+	url = https://github.com/cpsievert/xml2r
 [submodule "histoslider"]
 	path = histoslider
 	url = https://github.com/cpsievert/histoslider
 [submodule "jquerylib"]
 	path = jquerylib
 	url = https://github.com/cran/jquerylib
-[submodule "LDAvis"]
-	path = LDAvis
-	url = https://github.com/cpsievert/ldavis
 [submodule "pitchRx"]
 	path = pitchRx
 	url = https://github.com/cpsievert/pitchrx
 [submodule "plotlyGeoAssets"]
 	path = plotlyGeoAssets
 	url = https://github.com/cpsievert/plotlygeoassets
-[submodule "XML2R"]
-	path = XML2R
-	url = https://github.com/cpsievert/xml2r
