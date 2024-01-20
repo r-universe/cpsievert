@@ -14,9 +14,6 @@
 [submodule "jquerylib"]
 	path = jquerylib
 	url = https://github.com/cran/jquerylib
-[submodule "pitchRx"]
-	path = pitchRx
-	url = https://github.com/cpsievert/pitchrx
 [submodule "plotlyGeoAssets"]
 	path = plotlyGeoAssets
 	url = https://github.com/cpsievert/plotlygeoassets
