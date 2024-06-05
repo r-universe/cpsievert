@@ -5,6 +5,9 @@
 [submodule "LDAvis"]
 	path = LDAvis
 	url = https://github.com/cpsievert/ldavis
+[submodule "XML2R"]
+	path = XML2R
+	url = https://github.com/cpsievert/xml2r
 [submodule "histoslider"]
 	path = histoslider
 	url = https://github.com/cpsievert/histoslider
